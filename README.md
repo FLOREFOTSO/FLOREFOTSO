@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FloreFotso
+- 👋 Hi, I’m @MicheleFotso
 - 👀 I’m interested in Machine learning methods
 - 🌱 I’m currently learning Decision tree, K-NN and SVM
 - 💞️ I’m looking to collaborate on some Machine Learning Methods
